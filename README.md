@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 This is the repository to the utility page lordscalc.com
 
