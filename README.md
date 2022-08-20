@@ -1,7 +1,7 @@
 # Hi there 👋
 
 This is the repository to the utility page lordscalc.com
-
+For time being, lordscalc is the canonical site to lordsutil.
 <!--
 **lordscalc/lordscalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
